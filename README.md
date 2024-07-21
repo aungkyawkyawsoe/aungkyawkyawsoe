@@ -26,10 +26,10 @@ I have a diverse background in software development and have worked on a variety
 
 ## Get in Touch 📫
 
-- **Website:** [akksoe.com](https://akksoe.com/)
-- **Email:** [aung@example.com](mailto:me@akksoe.com)
+- **Website:** [www.akksoe.com](https://www.akksoe.com/)
+- **Email:** [me@akksoe.com](mailto:me@akksoe.com)
 - **LinkedIn:** [Aung Kyaw Kyaw Soe](https://www.linkedin.com/in/aung2k/)
-- **GitHub:** [github.com/akksoe](https://github.com/aungkyawkyawsoe)
+- **GitHub:** [github.com/aungkyawkyawsoe](https://github.com/aungkyawkyawsoe)
 
 ## Fun Fact ⚡
 
