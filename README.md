@@ -12,7 +12,7 @@ I have a diverse background in software development and have worked on a variety
 ## Skills & Tools
 
 - **Languages:** TypeScript, JavaScript, Dart
-- **Front-End:** React, Next.js, Material-UI, Flutter
+- **Front-End:** React, Next.js, Flutter
 - **Back-End:** Node.js, Express, Strapi CMS
 - **Databases:** PostgreSQL, MongoDB, MySQL, Firestore
 - **DevOps:** Nginx, Docker, GitHub Actions, Cloudflare
