@@ -4,7 +4,7 @@ I am Aung Kyaw Kyaw Soe, a Full Stack Developer with over 6 years of experience 
 
 ## About Me
 
-I have worked on a range of projects, from HR software to logistics delivery systems. My expertise spans across front-end development, back-end development, and mobile app development. I am proficient in reducing technical debt, creating efficient design systems, developing robust APIs, and implementing automated tests. Additionally, I have experience migrating legacy codebases to modern microservices architectures, which significantly improves system performance and maintainability.
+I have a diverse background in software development and have worked on a variety of projects. My experience includes reducing technical debt, creating efficient design systems, developing robust APIs, and implementing automated tests. Additionally, I have experience migrating legacy codebases to modern microservices architectures, significantly improving system performance and maintainability.
 
 🇲🇲 Born in Myanmar  
 🇹🇭 Living in Thailand
