@@ -1,7 +1,7 @@
 # Hey Folks 🍀
 
 I am Aung Kyaw Kyaw Soe, a Full Stack Developer with over 6 years of experience in software development. My journey includes building scalable applications, enhancing user experiences, and contributing to various impactful projects.
-
+<img src="https://komarev.com/ghpvc/?username=aungkyawkyawsoe&label=Profile%20views&color=0e75b6&style=flat" alt="aungkyawkyawsoe" />
 ## About Me
 
 I have a diverse background in software development and have worked on a variety of projects. My experience includes reducing technical debt, creating efficient design systems, developing robust APIs, and implementing automated tests. Additionally, I have experience migrating legacy codebases to modern microservices architectures, significantly improving system performance and maintainability.
