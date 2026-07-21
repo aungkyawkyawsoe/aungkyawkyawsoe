@@ -13,7 +13,7 @@ I have a diverse background in software development and have worked on a variety
 
 - **Languages:** TypeScript, JavaScript, Dart
 - **Front-End:** React, Next.js, Flutter
-- **Back-End:** Node.js, Express, Strapi CMS
+- **Back-End:** Node.js, Express, Strapi CMS, Directus CMS
 - **Databases:** PostgreSQL, MongoDB, MySQL, Firestore
 - **DevOps:** Nginx, Docker, GitHub Actions, Cloudflare
 - **Other:** Leaflet, Redux Toolkit, GraphQL, REST API
