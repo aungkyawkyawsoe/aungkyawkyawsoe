@@ -56,7 +56,7 @@ Private & Commercial Client Projects I've Architected and Developed:
 | **Ding Delivery** | Last-Mile Logistics | Real-time order dispatching, driver routing, and digital Proof of Delivery (POD) | `Flutter` `Next.js` `Node.js` `PostgreSQL` |
 | **PSL Myanmar** | Corporate Web Platform | Modern Web portal for Premium Sojitz Logistics with showcase services | `React` `Tailwind CSS` `Node.js` |
 
-> 🌐 *Detailed case studies and live demos available on my portfolio:* **[akksoe.com](https://www.akksoe.com/)**
+> 🌐 *Detailed case studies and live demos available on my portfolio:* **[akksoe.com](https://www.akksoe.com/#work)**
 
 ---
 
