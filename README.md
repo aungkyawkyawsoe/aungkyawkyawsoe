@@ -5,7 +5,7 @@ Bridging modern web/mobile technologies, backend architectures, and high-perform
 
 📍 **Based in:** Yangon, Myanmar  
 💼 **LinkedIn:** [linkedin.com/in/aung2k](https://www.linkedin.com/in/aung2k/)  
-🌐 **Portfolio:** [akksoe.com](https://www.akksoe.com/)  
+🌐 **Portfolio:** [akksoe.com](https://www.aungkyaw.dev/)  
 ✉️ **Email:** [me@akksoe.com](mailto:me@akksoe.com)
 
 ---
@@ -55,7 +55,7 @@ Commercial & Enterprise Projects I've Architected and Developed:
 | **Ding Delivery** | Last-Mile Logistics | Real-time order dispatching, driver routing, and digital Proof of Delivery (POD) | `Flutter` `Next.js` `Node.js` `PostgreSQL` |
 | **PSL Myanmar** | Corporate Web Platform | Modern Web portal for Premium Sojitz Logistics with showcase services | `React` `Tailwind CSS` `Node.js` |
 
-> 🌐 *Detailed case studies and live demos available on my portfolio:* **[akksoe.com](https://www.akksoe.com/#work)**
+> 🌐 *Detailed case studies and live demos available on my portfolio:* **[aungkyaw.dev](https://www.aungkyaw.dev/#work)**
 
 ---
 
@@ -67,6 +67,6 @@ Commercial & Enterprise Projects I've Architected and Developed:
 
 ## 📫 Get in Touch
 
-- 🌐 Website: [www.akksoe.com](https://www.akksoe.com/)
+- 🌐 Website: [www.aungkyaw.dev](https://www.aungkyaw.dev/)
 - 📧 Email: [me@akksoe.com](mailto:me@akksoe.com)
 - 💼 LinkedIn: [aung2k](https://www.linkedin.com/in/aung2k/)
