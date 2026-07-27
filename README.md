@@ -15,7 +15,7 @@ Bridging modern web/mobile technologies, backend architectures, and high-perform
 Senior Full Stack Developer with extensive experience in architecting scalable enterprise systems, real-time data pipelines, and cross-platform integrations, specializing in the Node.js ecosystem, Next.js, PostgreSQL, and Telegram Bot/Mini App solutions.
 
 - 🏢 **Current Focus:** Architecting modular Enterprise Operations & Logistics Platforms (MRO, Fleet, Fuel & HR).
-- ⚡ **Key Highlights:** Built live-score platforms serving 100k+ active users and logistics apps processing high-volume daily orders.
+- ⚡ Key Highlights: Architected modular enterprise operations platforms (MRO, Fleet, Logistics) and high-throughput real-time order processing systems.
 - 🛠️ **Core Tech:** Next.js, React, Node.js, Express, TypeScript, Flutter, PostgreSQL, Docker.
 
 ---
@@ -47,14 +47,14 @@ Senior Full Stack Developer with extensive experience in architecting scalable e
 
 ## 💻 Featured Showcase Projects
 
-Private & Commercial Client Projects I've Architected and Developed:
+Commercial & Enterprise Projects I've Architected and Developed:
 
 | Project | Type | Key Features | Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **MMBICS Enterprise Platform** | Modular ERP/HRM | Multi-tenant Fleet Tracking, Fuel Management, MRO, Logistics & Payroll System | `Next.js` `TypeScript` `Express` `PostgreSQL` |
-| **Myanmar Score** | High-Traffic Sports Platform | Real-time live score updates, match stats, and low-latency ingestion serving **100k+ Active Users** | `Flutter` `React` `Node.js` `MongoDB` |
 | **Ding Delivery** | Last-Mile Logistics | Real-time order dispatching, driver routing, and digital Proof of Delivery (POD) | `Flutter` `Next.js` `Node.js` `PostgreSQL` |
 | **PSL Myanmar** | Corporate Web Platform | Modern Web portal for Premium Sojitz Logistics with showcase services | `React` `Tailwind CSS` `Node.js` |
+| **Instant Noodle MES / Batch Operations** | Manufacturing System | Production batch coordination, Quality Control (QC) tracking, and BOM logic | `Next.js` `TypeScript` `PostgreSQL` |
 
 > 🌐 *Detailed case studies and live demos available on my portfolio:* **[akksoe.com](https://www.akksoe.com/#work)**
 
