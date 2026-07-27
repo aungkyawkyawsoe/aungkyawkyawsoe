@@ -54,7 +54,6 @@ Commercial & Enterprise Projects I've Architected and Developed:
 | **MMBICS Enterprise Platform** | Modular ERP/HRM | Multi-tenant Fleet Tracking, Fuel Management, MRO, Logistics & Payroll System | `Next.js` `TypeScript` `Express` `PostgreSQL` |
 | **Ding Delivery** | Last-Mile Logistics | Real-time order dispatching, driver routing, and digital Proof of Delivery (POD) | `Flutter` `Next.js` `Node.js` `PostgreSQL` |
 | **PSL Myanmar** | Corporate Web Platform | Modern Web portal for Premium Sojitz Logistics with showcase services | `React` `Tailwind CSS` `Node.js` |
-| **Instant Noodle MES / Batch Operations** | Manufacturing System | Production batch coordination, Quality Control (QC) tracking, and BOM logic | `Next.js` `TypeScript` `PostgreSQL` |
 
 > 🌐 *Detailed case studies and live demos available on my portfolio:* **[akksoe.com](https://www.akksoe.com/#work)**
 
