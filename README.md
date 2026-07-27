@@ -1,6 +1,6 @@
 # Hi there, I'm Aung Kyaw Kyaw Soe 👋
 
-### Senior Full Stack Engineer (6+ Years Experience)
+### Senior Full Stack Developer (6+ Years of Experience)
 Bridging modern web/mobile technologies, backend architectures, and high-performance real-time systems.
 
 📍 **Based in:** Yangon, Myanmar  
@@ -12,7 +12,7 @@ Bridging modern web/mobile technologies, backend architectures, and high-perform
 
 ## 🚀 About Me
 
-Senior Full Stack Engineer with extensive experience in architecting scalable enterprise systems, real-time data pipelines, and cross-platform integrations. Specializing in Node.js ecosystem, Next.js, PostgreSQL, and Telegram Bot/Mini App solutions.
+Senior Full Stack Developer with extensive experience in architecting scalable enterprise systems, real-time data pipelines, and cross-platform integrations, specializing in the Node.js ecosystem, Next.js, PostgreSQL, and Telegram Bot/Mini App solutions.
 
 - 🏢 **Current Focus:** Architecting modular Enterprise Operations & Logistics Platforms (MRO, Fleet, Fuel & HR).
 - ⚡ **Key Highlights:** Built live-score platforms serving 100k+ active users and logistics apps processing high-volume daily orders.
